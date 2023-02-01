@@ -1,7 +1,7 @@
 /**
  *
- */author Trevor Hartman
-* /author Misha Osborne
+ *//author Trevor Hartman
+* //author Misha Osborne
 
 import java.text.NumberFormat;
 
