@@ -1,3 +1,8 @@
+/**
+ *
+ */author Trevor Hartman
+* /author Misha Osborne
+
 import java.text.NumberFormat;
 
 public class PricelessScript {
